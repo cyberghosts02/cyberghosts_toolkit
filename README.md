@@ -21,7 +21,7 @@
 # 💸 Support the Project
 ### Maintaining and improving this toolkit takes hours of research, testing, and clean coding — all provided to the community 100% free. If this tool helped you, consider fueling the mission.
 
-#☕ Buy Me a Coffee
+# ☕ Buy Me a Coffee
 ## 👉 buymeacoffee.com/cyberghosts
 
 # ₿ Bitcoin Support
@@ -42,13 +42,13 @@ git clone https://github.com/cyberghosts02/cyberghosts_toolkit.git
 
 cd cyberghosts_toolkit
 
-### Make Main File Executable (Optional - for Unix/Linux)
+# Make Main File Executable (Optional - for Unix/Linux)
 
 chmod +x cyber-ghosts-gui.py
-### Install Requirements
+# Install Requirements
 
 pip install -r requirements.txt
-### requirements.txt
+# requirements.txt
 scapy
 
 colorama
@@ -58,13 +58,13 @@ requests
 ipapi
 
 tk
-## 🚀 How to Run
+# 🚀 How to Run
 💡 Run as administrator/root for full network features.
 
-### For CLI version:
+# For CLI version:
 sudo python3 cyber-ghosts-gui.py
 
-### For Windows:
+# For Windows:
 
 python cyber-ghosts-gui.py
 
@@ -81,5 +81,5 @@ python cyber-ghosts-gui.py
 Any misuse is the responsibility of the user. Use it wisely and lawfully.
 
 # 👨‍💻 Author
-## Made with ❤️ by the CYBER GHOSTS team
+# Made with ❤️ by the CYBER GHOSTS team
 🔗 GitHub Profile
