@@ -18,6 +18,19 @@
 - 🖥️ GUI Version (Tkinter Interface)
 
 ---
+# 💸 Support the Project
+### Maintaining and improving this toolkit takes hours of research, testing, and clean coding — all provided to the community 100% free. If this tool helped you, consider fueling the mission.
+
+#☕ Buy Me a Coffee
+## 👉 buymeacoffee.com/cyberghosts
+
+# ₿ Bitcoin Support
+## bc1qqu4vv0dghevv8dxzgv6fpz8alhr96mdy3jcryj
+### 📎 Click to copy | 📷 Scan QR below to donate
+
+<p align="center"> <img src="https://api.qrserver.com/v1/create-qr-code/?data=bc1qqu4vv0dghevv8dxzgv6fpz8alhr96mdy3jcryj&size=200x200" alt="Bitcoin Wallet QR" width="200" height="200"> </p>
+### 💬 Even a small donation helps keep this project alive and updated for the infosec community.
+
 
 ## 📦 Installation
 
