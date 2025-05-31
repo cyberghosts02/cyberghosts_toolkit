@@ -29,6 +29,7 @@
 ### 📎 Click to copy | 📷 Scan QR below to donate
 
 <p align="center"> <img src="https://api.qrserver.com/v1/create-qr-code/?data=bc1qqu4vv0dghevv8dxzgv6fpz8alhr96mdy3jcryj&size=200x200" alt="Bitcoin Wallet QR" width="200" height="200"> </p>
+
 ### 💬 Even a small donation helps keep this project alive and updated for the infosec community.
 
 
