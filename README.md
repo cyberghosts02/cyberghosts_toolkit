@@ -28,6 +28,9 @@ git clone https://github.com/cyberghosts02/cyberghosts_toolkit.git
 
 cd cyberghosts_toolkit
 
+### Make Main File Executable (Optional - for Unix/Linux)
+
+chmod +x cyber-ghosts-gui.py
 ### Install Requirements
 
 pip install -r requirements.txt
