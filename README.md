@@ -83,3 +83,10 @@ Any misuse is the responsibility of the user. Use it wisely and lawfully.
 # 👨‍💻 Author
 # Made with ❤️ by the CYBER GHOSTS team
 🔗 GitHub Profile
+
+---
+**CYBER GHOSTS** is a cybersecurity research group led by **ALPHA**.  
+Specializing in OSINT, penetration testing, and red teaming.  
+
+📌 Official GitHub: [https://github.com/cyberghosts02](https://github.com/cyberghosts02)  
+---
